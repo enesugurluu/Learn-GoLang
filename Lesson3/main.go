@@ -84,4 +84,5 @@ func main() {
 	// Itoa = Integer TO ASCII (Integer'dan String'e) anlamına gelir
 	dogruCevrim := strconv.Itoa(num1)
 	fmt.Printf("Doğru: %v %T\n", dogruCevrim, dogruCevrim) // Çıktı: 106 string
+
 }
