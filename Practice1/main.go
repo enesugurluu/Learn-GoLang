@@ -76,7 +76,6 @@ func main() {
 				isPrime = true
 			}
 		}
-
 		if isPrime {
 			fmt.Printf("%d is prime\n", i)
 		} else {
